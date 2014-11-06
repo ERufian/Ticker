@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerUnitTests", "FlowUnitTests\TickerUnitTests.csproj", "{F02EDC7F-27F8-408F-A831-076DB7348D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticker", "Flow\Ticker.csproj", "{04C29B43-8528-4849-A81B-6B6D6D208C14}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://eusebio.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Flow\\Ticker.csproj
+		SccProjectName0 = Flow
+		SccLocalPath0 = Flow
+		SccProjectUniqueName1 = FlowUnitTests\\TickerUnitTests.csproj
+		SccProjectName1 = FlowUnitTests
+		SccLocalPath1 = FlowUnitTests
+		SccLocalPath2 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02EDC7F-27F8-408F-A831-076DB7348D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02EDC7F-27F8-408F-A831-076DB7348D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02EDC7F-27F8-408F-A831-076DB7348D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02EDC7F-27F8-408F-A831-076DB7348D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C29B43-8528-4849-A81B-6B6D6D208C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C29B43-8528-4849-A81B-6B6D6D208C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C29B43-8528-4849-A81B-6B6D6D208C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C29B43-8528-4849-A81B-6B6D6D208C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
